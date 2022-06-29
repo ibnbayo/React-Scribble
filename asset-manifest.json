@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Scribble/static/css/main.9758f22e.css",
+    "main.js": "/React-Scribble/static/js/main.50f59f63.js",
+    "static/media/page-title-5.jpg": "/React-Scribble/static/media/page-title-5.45a30f89bb6fdce9517e.jpg",
+    "static/media/reactserver.png": "/React-Scribble/static/media/reactserver.73cb6b9a41d250aee80d.png",
+    "static/media/kb9.jpg": "/React-Scribble/static/media/kb9.28a822334357b904eb1b.jpg",
+    "static/media/photo-1464618663641-bbdd760ae84a.avif": "/React-Scribble/static/media/photo-1464618663641-bbdd760ae84a.9951512b70caac58b0e2.avif",
+    "index.html": "/React-Scribble/index.html",
+    "main.9758f22e.css.map": "/React-Scribble/static/css/main.9758f22e.css.map",
+    "main.50f59f63.js.map": "/React-Scribble/static/js/main.50f59f63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9758f22e.css",
+    "static/js/main.50f59f63.js"
+  ]
+}
